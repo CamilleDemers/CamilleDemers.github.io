@@ -11,7 +11,7 @@ redirect_from:
 *Doctorante en sciences de l'information, Auxiliaire de recherche et d'enseignement* 
 
 ## À propos 
-- Doctorat en sciences de l'information @[EBSI](https://ebsi.umontreal.ca/accueil/), Université de Montréal.
+- Doctorante en sciences de l'information, EBSI, Université de Montréal.
 - Maîtrise en sciences de l'information (profil gestion et conception de ressources numériques)
 - B.Sc. en neuroscience cognitive (spécialisation en linguistique) 
 
@@ -20,6 +20,14 @@ redirect_from:
 - Ontologies, données liées et Web sémantique
 - Synthèse des connaissances scientifiques
 
-<!-- ## Projets de recherche en cours -->
+## Projets de recherche 
+**Recherche doctorale**
+Titre du projet : Application de méthodes de fouille de textes basées sur le Web sémantique et les ontologies pour assister la conduite des revues de la littérature scientifique
+
+**Auxiliariat de recherche**
+Titre du projet : Analyse de textes philosophiques québécois assistée par ordinateur
+Chercheur principal : Jean-Guy Meunier
+Co-chercheur : Dominic Forest
+
 <!-- https://academicpages.github.io/markdown/ -->
 
