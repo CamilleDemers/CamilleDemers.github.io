@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "fr-CA"
-title                    : "Camille Demers | EBSI"
-title_separator          : "B.S.c, M.S.I."
+title                    : "Camille Demers"
+title_separator          : "|"
 name                     : &name "Camille Demers"
 description              : &description "personal description"
 url                      : https://camilledemers.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
