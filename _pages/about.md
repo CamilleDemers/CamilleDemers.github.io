@@ -12,7 +12,7 @@ redirect_from:
 
 ## À propos 
 - Doctorante en sciences de l'information
-- Maîtrise en sciences de l'information (profil gestion et conception de ressources numériques)
+- Maîtrise en sciences de l'information (gestion et conception de ressources numériques)
 - BSc. en neuroscience cognitive (spécialisation en linguistique) 
 
 ## Intérêts de recherche
