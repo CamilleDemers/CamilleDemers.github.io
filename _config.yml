@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fr-CA"
-title                    : "Camille Demers / EBSI"
+title                    : "Camille Demers | EBSI"
 title_separator          : "B.S.c, M.S.I."
 name                     : &name "Camille Demers"
 description              : &description "personal description"
@@ -83,7 +83,7 @@ author:
   name             : "Camille Demers"
   avatar           : "profile.jpg"
   bio              : "Doctorante en sciences de l'information"
-  location         : "Montréal, Canada"
+  location         : 
   employer         : "EBSI, Université de Montréal"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7w0Ofb8AAAAJ&hl=fr&oi=ao"
