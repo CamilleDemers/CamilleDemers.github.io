@@ -13,7 +13,7 @@ redirect_from:
 ## À propos 
 - Doctorante en sciences de l'information, EBSI, Université de Montréal.
 - Maîtrise en sciences de l'information (profil gestion et conception de ressources numériques)
-- B.Sc. en neuroscience cognitive (spécialisation en linguistique) 
+- BSc. en neuroscience cognitive (spécialisation en linguistique) 
 
 ## Intérêts de recherche
 - Fouille de texte / Traitement automatique des langues
