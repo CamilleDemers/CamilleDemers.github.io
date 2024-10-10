@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Camille Demers | École de Bibliothéconomie et des Sciences de l'Information"
+title: "Camille Demers, École de Bibliothéconomie et des Sciences de l'Information"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,6 +19,6 @@ Je suis étudiante au doctorat en sciences de l'information à l'[École de Bibl
 - Extraction d'information
 - Synthèse des connaissances scientifiques
 
-<-- ## Projets de recherche en cours -->
-
+<!-- ## Projets de recherche en cours -->
+<!-- https://academicpages.github.io/markdown/ -->
 
