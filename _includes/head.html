@@ -3,11 +3,15 @@
 <meta charset="utf-8">
 
 <!-- analytics -->
-{% if site.google_analytics}
-    {% include analytics.html %}
-{% endif %}
-
-{% include seo.html %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4K83WMF10C"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-4K83WMF10C');
+</script>
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
