@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-*Doctorante en sciences de l'information, Auxiliaire de recherche et d'enseignement* 
-
 ## À propos 
 - Doctorante en sciences de l'information, EBSI, Université de Montréal.
 - Maîtrise en sciences de l'information (profil gestion et conception de ressources numériques)
