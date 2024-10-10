@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+*École de Bibliothéconomie et des Sciences de l'Information (EBSI), Université de Montréal*
+
 ## À propos 
 - Doctorante en sciences de l'information, EBSI, Université de Montréal.
 - Maîtrise en sciences de l'information (profil gestion et conception de ressources numériques)
