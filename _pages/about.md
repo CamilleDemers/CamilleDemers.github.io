@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Camille Demers, École de Bibliothéconomie et des Sciences de l'Information"
+title: "Camille Demers"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Camille Demers
 *Doctorante en sciences de l'information, Auxiliaire de recherche et d'enseignement* 
 
 Je suis étudiante au doctorat en sciences de l'information à l'[École de Bibliothéconomie et des Sciences de l'Information](https://ebsi.umontreal.ca/accueil/) (Université de Montréal). Mon doctorat fait suite à une maîtrise professionnelle en sciences de l'information orientée ainsi qu'à un baccalauréat en neuroscience cognitive avec spécialisation en linguistique. 
