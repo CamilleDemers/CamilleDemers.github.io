@@ -21,13 +21,13 @@ redirect_from:
 - Synthèse des connaissances scientifiques
 
 ## Projets de recherche 
-**Recherche doctorale**
-Titre du projet : Application de méthodes de fouille de textes basées sur le Web sémantique et les ontologies pour assister la conduite des revues de la littérature scientifique
+***Recherche doctorale***  
+*Titre du projet* : Application de méthodes de fouille de textes basées sur le Web sémantique et les ontologies pour assister la conduite des revues de la littérature scientifique
 
-**Auxiliariat de recherche**
-Titre du projet : Analyse de textes philosophiques québécois assistée par ordinateur
-Chercheur principal : Jean-Guy Meunier
-Co-chercheur : Dominic Forest
+***Auxiliariat de recherche***  
+*Titre du projet* : Analyse de textes philosophiques québécois assistée par ordinateur  
+*Chercheur principal* : Jean-Guy Meunier  
+*Co-chercheur* : Dominic Forest  
 
 <!-- https://academicpages.github.io/markdown/ -->
 
